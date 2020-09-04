@@ -16,7 +16,7 @@ setup(
     url="https://github.com/danilocgsilva/wimi-api",
     author="Danilo Silva",
     author_email="contact@danilocgsilva.me",
-    packages=["wimi-api"],
+    packages=["wimiapi"],
     include_package_data=True
 )
 
