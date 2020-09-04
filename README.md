@@ -1,2 +1,4 @@
 # wimi-api
-Python package simple to get the current external ip
+
+Give some human readable data here.
+
