@@ -1,13 +1,13 @@
 from setuptools import setup
 
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 
 def readme():
     with open("README.md") as f:
         return f.read()
 
 setup(
-    name="wimi-api",
+    name="wimiapi",
     version=VERSION,
     description="Package to fetch the current external ip",
     long_description_content_type="text/markdown",
